@@ -9,4 +9,4 @@
 
 # INSTALLATION TOOL
 
-[Installation](install.png)
+![Installation](install.png)
