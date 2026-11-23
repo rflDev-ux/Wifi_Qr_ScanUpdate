@@ -2,5 +2,6 @@
 
 ## Demo
 
-![Tool Demo]
-(demoTermux.png)
+![Tool Demo](demoTermux.png)
+
+![Tool Demo2](demoKali.png)
