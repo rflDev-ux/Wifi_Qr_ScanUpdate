@@ -2,4 +2,5 @@
 
 ## Demo
 
-![Tool Demo](demoTermux.png)
+![Tool Demo]
+(demoTermux.png)
