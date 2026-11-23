@@ -9,4 +9,4 @@
 
 # INSTALLATION TOOL
 
-[Installation](install.png)
+[Installation](file_0000000049d48211a8dd89aad3c7e685.png)
